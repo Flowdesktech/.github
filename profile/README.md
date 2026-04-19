@@ -5,7 +5,7 @@
   Firebase consulting, TypeScript, full-stack development, custom SaaS,
   mobile app development, native iOS development, native Android development,
   Swift, Kotlin, React Native, Flutter, Expo, hybrid mobile apps,
-  cross-platform apps, open source, United States.
+  cross-platform apps, open source, remote, worldwide, global clients.
 -->
 
 <div align="center">
@@ -21,6 +21,7 @@
 
 [![Website — flowdesk.tech](https://img.shields.io/badge/Website-flowdesk.tech-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white "Flowdesk website — AI development agency")](https://flowdesk.tech)
 [![Email — contact@flowdesk.tech](https://img.shields.io/badge/Email-contact%40flowdesk.tech-D14836?style=for-the-badge&logo=gmail&logoColor=white "Hire Flowdesk — contact@flowdesk.tech")](mailto:contact@flowdesk.tech)
+[![Remote — Worldwide](https://img.shields.io/badge/Available-Remote%20Worldwide-3D9970?style=for-the-badge&logo=googleearth&logoColor=white "Flowdesk works remotely with clients worldwide")](mailto:contact@flowdesk.tech)
 [![GitHub followers](https://img.shields.io/github/followers/Flowdesktech?label=Follow%20%40Flowdesktech&style=for-the-badge&logo=github&color=181717 "Follow Flowdesk on GitHub")](https://github.com/Flowdesktech)
 
 </div>
@@ -29,7 +30,7 @@
 
 ## About Flowdesk
 
-**Flowdesk** is a United States–based, AI‑first software development studio. We design, build, deploy, and maintain production‑grade web, desktop, and mobile applications for startups and established companies — with AI, LLM orchestration, and automation woven into every layer of the stack.
+**Flowdesk** is a fully remote, AI‑first software development studio working with clients worldwide. We design, build, deploy, and maintain production‑grade web, desktop, and mobile applications for startups and established companies — with AI, LLM orchestration, and automation woven into every layer of the stack.
 
 Our work spans **React and Next.js web apps**, **native iOS (Swift) and native Android (Kotlin) mobile apps**, **hybrid cross‑platform apps with React Native, Flutter, and Expo**, **Firebase and serverless backends**, **.NET Windows utilities**, **AI agent systems**, **retrieval‑augmented generation (RAG)**, **data pipelines**, and **workflow automation** across SaaS APIs. We open‑source the pieces that help other developers build faster.
 
@@ -295,8 +296,8 @@ Yes — mobile is a core specialty. We build **native iOS apps in Swift/SwiftUI*
 ### Does Flowdesk take on new client projects?
 Yes. We accept a limited number of engagements per quarter for product builds, AI integrations, pipeline and platform work, and open‑source collaboration. Email **contact@flowdesk.tech** to start a conversation.
 
-### Where is Flowdesk based?
-Flowdesk is based in the **United States** and works with clients globally, remotely.
+### Does Flowdesk work remotely?
+Yes — Flowdesk is **100% remote** and collaborates with clients worldwide across time zones. We run discovery, design, development, and delivery entirely over async and video calls.
 
 ### Are Flowdesk's projects open source?
 Most of our flagship projects — [Invoice](https://github.com/Flowdesktech/invoice), [Firestudio](https://github.com/Flowdesktech/firestudio), [Snapboard](https://github.com/Flowdesktech/Snapboard), and others — are open source under permissive licenses.
@@ -326,7 +327,7 @@ We take on a small number of client engagements each quarter. If you have a prod
 
 ### Flowdesk — AI Development Agency, Mobile App Studio, Automation Experts
 
-*AI orchestration · LLM agents · Native iOS · Native Android · React Native · Flutter · React · Next.js · TypeScript · Firebase · Automation pipelines · United States*
+*AI orchestration · LLM agents · Native iOS · Native Android · React Native · Flutter · React · Next.js · TypeScript · Firebase · Automation pipelines · Remote Worldwide*
 
 [flowdesk.tech](https://flowdesk.tech) · [contact@flowdesk.tech](mailto:contact@flowdesk.tech)
 

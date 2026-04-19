@@ -79,24 +79,7 @@ We help teams go from *"we should use AI somewhere"* to production systems that 
 
 <div align="center">
 
-<a href="https://github.com/Flowdesktech">
-  <img alt="Flowdesk GitHub stats — stars, commits, PRs across all Flowdesktech repositories"
-       height="180"
-       src="https://github-readme-stats.vercel.app/api?username=Flowdesktech&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" />
-</a>
-<a href="https://github.com/Flowdesktech">
-  <img alt="Top programming languages used across Flowdesk's open-source repositories"
-       height="180"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flowdesktech&layout=compact&langs_count=10&hide_border=true&title_color=0A66C2&text_color=c9d1d9&bg_color=0d1117" />
-</a>
-
-<a href="https://github.com/Flowdesktech">
-  <img alt="Flowdesk GitHub trophies — achievements across all open-source projects"
-       src="https://github-profile-trophy.vercel.app/?username=Flowdesktech&theme=github_dark&no-frame=true&column=7&margin-w=8&margin-h=8" />
-</a>
-
-<br />
-
+<!-- Live badges (Shields.io) — work reliably for organizations -->
 <a href="https://github.com/Flowdesktech">
   <img alt="Total stars across all Flowdesktech repositories"
        src="https://img.shields.io/github/stars/Flowdesktech?affiliations=OWNER&style=for-the-badge&logo=github&label=Total%20Stars&color=FFD93D" />
@@ -108,6 +91,48 @@ We help teams go from *"we should use AI somewhere"* to production systems that 
 <a href="https://github.com/Flowdesktech">
   <img alt="Followers of the Flowdesktech organization on GitHub"
        src="https://img.shields.io/github/followers/Flowdesktech?style=for-the-badge&logo=github&label=Followers&color=0A66C2" />
+</a>
+
+<br /><br />
+
+<!-- Top languages across the whole org — this endpoint supports orgs -->
+<a href="https://github.com/Flowdesktech">
+  <img alt="Top programming languages used across Flowdesk's open-source repositories"
+       height="180"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flowdesktech&layout=compact&langs_count=10&hide_border=true&title_color=0A66C2&text_color=c9d1d9&bg_color=0d1117" />
+</a>
+
+</div>
+
+### Featured Repositories
+
+<div align="center">
+
+<a href="https://github.com/Flowdesktech/invoice">
+  <img alt="Flowdesk Invoice — React 19 and Firebase invoice management SaaS"
+       src="https://github-readme-stats.vercel.app/api/pin/?username=Flowdesktech&repo=invoice&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=c9d1d9&bg_color=0d1117" />
+</a>
+<a href="https://github.com/Flowdesktech/firestudio">
+  <img alt="Flowdesk Firestudio — open-source GUI client for Firebase Firestore"
+       src="https://github-readme-stats.vercel.app/api/pin/?username=Flowdesktech&repo=firestudio&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=c9d1d9&bg_color=0d1117" />
+</a>
+
+<a href="https://github.com/Flowdesktech/Snapboard">
+  <img alt="Flowdesk Snapboard — fast Windows screenshot and screen utility"
+       src="https://github-readme-stats.vercel.app/api/pin/?username=Flowdesktech&repo=Snapboard&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=c9d1d9&bg_color=0d1117" />
+</a>
+<a href="https://github.com/Flowdesktech/wayex">
+  <img alt="Flowdesk Wayex — reference stablecoin banking web app built with Next.js"
+       src="https://github-readme-stats.vercel.app/api/pin/?username=Flowdesktech&repo=wayex&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=c9d1d9&bg_color=0d1117" />
+</a>
+
+<a href="https://github.com/Flowdesktech/hackernews">
+  <img alt="Flowdesk Hackernews — minimal TypeScript Hacker News reader"
+       src="https://github-readme-stats.vercel.app/api/pin/?username=Flowdesktech&repo=hackernews&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=c9d1d9&bg_color=0d1117" />
+</a>
+<a href="https://github.com/Flowdesktech/website">
+  <img alt="Flowdesk website — flowdesk.tech marketing site source code"
+       src="https://github-readme-stats.vercel.app/api/pin/?username=Flowdesktech&repo=website&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=c9d1d9&bg_color=0d1117" />
 </a>
 
 <sub>Stats auto‑update from the GitHub API. Star a repo to help new users find it!</sub>

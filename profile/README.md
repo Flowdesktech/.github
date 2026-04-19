@@ -19,7 +19,6 @@
 
 [![Website — flowdesk.tech](https://img.shields.io/badge/Website-flowdesk.tech-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white "Flowdesk website — AI development agency")](https://flowdesk.tech)
 [![Email — contact@flowdesk.tech](https://img.shields.io/badge/Email-contact%40flowdesk.tech-D14836?style=for-the-badge&logo=gmail&logoColor=white "Hire Flowdesk — contact@flowdesk.tech")](mailto:contact@flowdesk.tech)
-[![Location — United States](https://img.shields.io/badge/Based%20in-United%20States-3D9970?style=for-the-badge&logo=googlemaps&logoColor=white "Flowdesk is based in the United States")](https://flowdesk.tech)
 [![GitHub followers](https://img.shields.io/github/followers/Flowdesktech?label=Follow%20%40Flowdesktech&style=for-the-badge&logo=github&color=181717 "Follow Flowdesk on GitHub")](https://github.com/Flowdesktech)
 
 </div>

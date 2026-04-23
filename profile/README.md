@@ -1,25 +1,27 @@
 <!--
-  Flowdesk — AI Development Agency, Mobile App Studio & Open‑Source Lab
-  Keywords: AI development agency, AI orchestration, LLM automation, AI agents,
-  RAG implementation, data pipelines, React development, Next.js agency,
-  Firebase consulting, TypeScript, full-stack development, custom SaaS,
-  mobile app development, native iOS development, native Android development,
-  Swift, Kotlin, React Native, Flutter, Expo, hybrid mobile apps,
-  cross-platform apps, open source, remote, worldwide, global clients.
+  Flowdesk — Privacy-first engineering studio
+  Keywords: privacy-first engineering studio, end-to-end encryption agency, E2EE,
+  zero-knowledge applications, OpenPGP, cryptography engineering, FlowCrypt,
+  crypto wallet development, web3 frontends, hire a cryptography engineer,
+  AI development, LLM orchestration, RAG, AI agents, AI-augmented development,
+  full-stack development, React, Next.js, TypeScript, Firebase, Node.js,
+  mobile app development, native iOS, Swift, SwiftUI, Kotlin, Jetpack Compose,
+  React Native, Expo, Flutter, browser extension development, Chrome extensions,
+  open source, remote, worldwide, global clients.
 -->
 
 <div align="center">
 
-<a href="https://flowdesk.tech" title="Flowdesk — AI development agency">
-  <img alt="Flowdesk — AI development agency, open-source studio, AI orchestration and automation pipelines"
-       src="https://img.shields.io/badge/Flowdesk-AI%20Development%20Agency-0A66C2?style=for-the-badge" />
+<a href="https://flowdesk.tech" title="Flowdesk — Privacy-first engineering studio">
+  <img alt="Flowdesk — Privacy-first engineering studio, full-stack, mobile, AI"
+       src="https://img.shields.io/badge/Flowdesk-Privacy--first%20Engineering%20Studio-0A66C2?style=for-the-badge" />
 </a>
 
-# Flowdesk — AI Development Agency, Mobile App Studio & Open‑Source Lab
+# Flowdesk — Privacy‑first Engineering Studio
 
-**We build AI‑powered web apps, native & hybrid mobile apps, LLM orchestration systems, autonomous agents, and automation pipelines — plus professional open‑source tools for developers.**
+**We build full‑stack web apps, native & hybrid mobile apps, end‑to‑end encrypted systems, crypto wallets, and AI‑powered products — the kind of engineering where getting the details wrong is the whole story. Led by a senior engineer with four years shipping production OpenPGP email at [FlowCrypt](https://flowcrypt.com) (iOS + Chrome Extension, 2022–2026).**
 
-[![Website — flowdesk.tech](https://img.shields.io/badge/Website-flowdesk.tech-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white "Flowdesk website — AI development agency")](https://flowdesk.tech)
+[![Website — flowdesk.tech](https://img.shields.io/badge/Website-flowdesk.tech-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white "Flowdesk website")](https://flowdesk.tech)
 [![Email — contact@flowdesk.tech](https://img.shields.io/badge/Email-contact%40flowdesk.tech-D14836?style=for-the-badge&logo=gmail&logoColor=white "Hire Flowdesk — contact@flowdesk.tech")](mailto:contact@flowdesk.tech)
 [![Remote — Worldwide](https://img.shields.io/badge/Available-Remote%20Worldwide-3D9970?style=for-the-badge&logo=googleearth&logoColor=white "Flowdesk works remotely with clients worldwide")](mailto:contact@flowdesk.tech)
 [![GitHub followers](https://img.shields.io/github/followers/Flowdesktech?label=Follow%20%40Flowdesktech&style=for-the-badge&logo=github&color=181717 "Follow Flowdesk on GitHub")](https://github.com/Flowdesktech)
@@ -30,56 +32,60 @@
 
 ## About Flowdesk
 
-**Flowdesk** is a fully remote, AI‑first software development studio working with clients worldwide. We design, build, deploy, and maintain production‑grade web, desktop, and mobile applications for startups and established companies — with AI, LLM orchestration, and automation woven into every layer of the stack.
+**Flowdesk** is a small, fully remote engineering studio focused on products where **trust is load‑bearing** — zero‑knowledge applications, end‑to‑end encryption, client‑side cryptography, crypto wallets and web3 frontends, and privacy‑respecting mobile apps. We design, build, deploy, and maintain production systems for startups and established companies worldwide: browser, server, mobile, and infrastructure.
 
-Our work spans **React and Next.js web apps**, **native iOS (Swift) and native Android (Kotlin) mobile apps**, **hybrid cross‑platform apps with React Native, Flutter, and Expo**, **Firebase and serverless backends**, **.NET Windows utilities**, **AI agent systems**, **retrieval‑augmented generation (RAG)**, **data pipelines**, and **workflow automation** across SaaS APIs. We open‑source the pieces that help other developers build faster.
+We are led by a **senior engineer with four years shipping production cryptography at [FlowCrypt](https://flowcrypt.com)** (OpenPGP for email — iOS + Chrome Extension, 2022–2026), plus real App Store and Google Play shipping experience across native and hybrid mobile. Alongside privacy engineering we take on full‑stack web, mobile, and AI work — we ship features into products, and we use AI aggressively to deliver faster.
 
-The team is led by a **senior mobile app developer** with deep experience shipping both native and hybrid apps to the App Store and Google Play.
-
-> **More open‑source projects are on the way.** Watch this org — there's a steady stream of AI tools, agent frameworks, automation kits, and developer utilities landing here.
+> **Our flagship open‑source product is [Flowvault](https://github.com/Flowdesktech/flowvault)** — a zero‑knowledge encrypted notepad with hidden‑volume plausible deniability, drand‑backed time‑locked notes, self‑destructing Encrypted Send, and Bring‑Your‑Own‑Storage local vaults. It's the public reference for the engineering bar we hold client work to.
 
 ---
 
 ## What We Build
 
-- **AI Orchestration & LLM Pipelines** — Multi‑step chains, function/tool calling, RAG, memory, and evaluation harnesses using OpenAI, Anthropic, and open‑source models.
-- **Autonomous Agents & Copilots** — Domain‑specific AI agents that plan, use tools, and operate inside real business workflows.
-- **Automation & Integration Pipelines** — Event‑driven jobs, ETL/ELT data pipelines, scheduled workers, webhooks, and glue between SaaS APIs (Stripe, Slack, Notion, Linear, Google, Microsoft, and more).
-- **Business SaaS Applications** — Invoicing, CRM, dashboards, and workflow tools for small and mid‑sized teams.
-- **Native Mobile Apps** — Production iOS (Swift, SwiftUI) and Android (Kotlin, Jetpack Compose) apps, App Store & Google Play publishing.
-- **Hybrid / Cross‑Platform Mobile Apps** — React Native, Expo, and Flutter apps that ship to both platforms from a single codebase.
-- **Developer Tooling** — GUI clients, inspectors, CLIs, and utilities that make everyday engineering less painful.
-- **Desktop Utilities for Windows** — Fast, private, native apps built with C# and .NET.
-- **Web Clones & Reference Apps** — Learning‑focused rebuilds of notable products using modern stacks.
-- **Custom Client Work** — End‑to‑end product delivery from discovery through deployment and ongoing operations.
+- 🛡️ **Privacy‑first & E2EE web apps** — Client‑side cryptography, authenticated encryption (AES‑GCM), memory‑hard KDFs (Argon2id), drand/tlock identity‑based encryption, and zero‑knowledge server boundaries enforced by auditable rules. See [Flowvault](https://github.com/Flowdesktech/flowvault) end to end.
+- 💱 **Crypto & web3 products** — Wallets, signing flows, key management, and web3 frontends built on production cryptography, not tutorials.
+- 🧩 **Browser extensions** — Chrome, Edge, and Firefox extensions, including security‑critical E2EE extensions used against real threat models.
+- 📱 **Native & hybrid mobile apps** — Production iOS (Swift, SwiftUI) and Android (Kotlin, Jetpack Compose); React Native, Expo, and Flutter from one codebase. Full App Store and Google Play lifecycle.
+- 🌐 **Full‑stack web & SaaS** — React / Next.js frontends with Firebase, Node.js, or Python backends. Typed, tested, deployed on CI/CD from day one.
+- 🤖 **AI orchestration & agents** — LLM chains, tool‑using agents, RAG, evals, and automation pipelines with OpenAI, Anthropic, and open‑source models. We ship AI features into real products.
+- ⚡ **AI‑augmented delivery** — We use AI aggressively where it actually makes engineers faster (scaffolding, test generation, mechanical refactors, code exploration, first‑pass review) so client budgets are spent on the parts that actually need human judgment.
+- 🛠️ **Developer tooling & utilities** — GUI clients, inspectors, CLIs, and desktop utilities. See [Firestudio](https://github.com/Flowdesktech/firestudio) and [Snapboard](https://github.com/Flowdesktech/Snapboard).
+
+---
+
+## Privacy, Cryptography & E2EE Services
+
+The work we're best known for. If "the server can't read your data" needs to be a real claim and not a marketing line, this is the engagement.
+
+- 🔐 **Zero‑knowledge application design** — Threat modeling, cryptographic architecture, and auditable server boundaries. We specify what the server sees, what it can and cannot do, and why.
+- ✉️ **End‑to‑end encrypted messaging, storage, and sharing** — Authenticated encryption, identity‑based encryption (drand/tlock), one‑shot/burn‑after‑read flows, and backup formats that survive self‑hosting.
+- 🔑 **Key management & passphrase flows** — Memory‑hard KDFs (Argon2id), upgradable parameters, passphrase‑protected keychains, and on‑device key storage — the hard problems that sink most E2EE products.
+- 🧩 **Security‑critical browser extensions** — Chrome / Edge / Firefox extensions, including the kind with real adversaries, shipped at FlowCrypt.
+- 💱 **Crypto wallet engineering** — On‑device key custody, signing flows, multi‑chain integrations, and UX that doesn't leak user funds.
+- 🔎 **Security review & threat modeling** — Review of an existing crypto scheme, key management, or zero‑knowledge boundary. Written, specific, actionable.
 
 ---
 
 ## Mobile App Development Services
 
-Led by a **senior mobile engineer** with shipping experience across the App Store and Google Play. We build, modernize, and maintain mobile apps end‑to‑end.
+Real App Store and Google Play experience, including four years shipping a security‑critical iOS app at FlowCrypt.
 
-- 🍎 **Native iOS** — Swift, SwiftUI, UIKit, Core Data, Combine, WidgetKit, and App Store release management.
+- 🍎 **Native iOS** — Swift, SwiftUI, UIKit, Combine, WidgetKit, Keychain, and App Store release management.
 - 🤖 **Native Android** — Kotlin, Jetpack Compose, Coroutines, Room, Hilt, and Google Play release management.
 - ⚛️ **React Native & Expo** — One codebase, two platforms, native performance. OTA updates with EAS.
-- 🐦 **Flutter** — Beautiful cross‑platform apps with Dart, Riverpod/Bloc, and Firebase backends.
-- 🔔 **Mobile Backends** — Firebase, Supabase, REST/GraphQL APIs, push notifications (FCM/APNs), in‑app purchases.
-- 🧪 **Mobile Testing & QA** — Unit, integration, and end‑to‑end testing with XCTest, JUnit, Detox, and Maestro.
-- 🚀 **CI/CD for Mobile** — Fastlane, EAS, GitHub Actions, TestFlight, and Play Console internal tracks.
-- 🎨 **Design‑to‑Code** — Figma → pixel‑perfect mobile UI with native animations and gestures.
+- 🐦 **Flutter** — Cross‑platform apps with Dart, Riverpod/Bloc, and Firebase backends.
+- 🔔 **Mobile backends** — Firebase, Supabase, REST/GraphQL APIs, push notifications (FCM/APNs), in‑app purchases.
+- 🧪 **Testing & QA** — XCTest, JUnit, Detox, Maestro, and snapshot testing.
+- 🚀 **CI/CD for mobile** — Fastlane, EAS, GitHub Actions, TestFlight, and Play Console internal tracks.
 
 ---
 
-## AI, Orchestration & Automation Services
+## AI Services — Shipped into Products *and* Used to Ship Faster
 
-We help teams go from *"we should use AI somewhere"* to production systems that ship measurable value every day.
-
-- 🧠 **LLM Orchestration** — Prompt engineering, multi‑step chains, tool use, retrieval‑augmented generation (RAG), and long‑term memory.
-- 🤖 **AI Agents & Copilots** — Task‑specific agents that plan, call tools, and act inside real products.
-- 🔁 **Workflow Automation** — Event‑driven pipelines, webhooks, queues, and schedulers wiring SaaS APIs together.
-- 🧪 **Evaluations & Guardrails** — Automated eval suites, regression checks, and safety layers so AI behavior stays predictable.
-- 📊 **Data & Embedding Pipelines** — ETL/ELT, vector databases, embeddings, and analytics‑ready warehouses.
-- 🔌 **Integrations** — Firebase, Postgres, Redis, Stripe, Google Workspace, Microsoft 365, Slack, Notion, Linear, and custom REST/GraphQL APIs.
+- 🧠 **LLM orchestration & agents** — Multi‑step chains, tool use, RAG, long‑term memory, and evals with OpenAI, Anthropic Claude, and open‑source models.
+- 🧪 **Evaluations & guardrails** — Automated eval suites, regression checks, and safety layers so AI behavior stays predictable in production.
+- 📊 **Data & embedding pipelines** — ETL/ELT, vector databases (pgvector, Qdrant, Pinecone, Weaviate), embeddings, and analytics‑ready warehouses.
+- ⚡ **AI‑augmented delivery on client projects** — We use Cursor, Claude Code, Copilot, and GPT/Codex aggressively for boilerplate generation, exhaustive test generation, typed refactors, and codebase exploration. Clients feel it in cycle time, not in bugs.
 
 ---
 
@@ -87,13 +93,11 @@ We help teams go from *"we should use AI somewhere"* to production systems that 
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| [**Invoice**](https://github.com/Flowdesktech/invoice) — Invoice management SaaS | Professional invoice management system with customer management, PDF generation, multi‑currency support, and business profiles. [Live demo](https://invoice.flowdesk.tech). | React 19 · Next.js 15 · Firebase · Material‑UI |
-| [**Firestudio**](https://github.com/Flowdesktech/firestudio) — Firestore GUI client | A powerful, open‑source GUI client for Firebase Firestore — browse, edit, and manage collections visually. | TypeScript · Electron · Firebase |
+| [**Flowvault**](https://github.com/Flowdesktech/flowvault) — zero‑knowledge notepad | Argon2id + AES‑256‑GCM notepad with hidden‑volume plausible deniability, drand‑backed time‑locked notes, self‑destructing Encrypted Send, Bring‑Your‑Own‑Storage local vaults, and a zero‑knowledge dead‑man's switch. [Live demo](https://flowvault.flowdesk.tech). | Next.js · Firebase · TypeScript · Cryptography |
+| [**Firestudio**](https://github.com/Flowdesktech/firestudio) — Firestore GUI client | Open‑source desktop GUI client for Firebase Firestore — browse, query, and edit collections visually. | TypeScript · Electron · Firebase |
 | [**Snapboard**](https://github.com/Flowdesktech/Snapboard) — Windows screenshot tool | Fast, private, all‑in‑one screenshot and screen utility for Windows. | C# · .NET · WPF |
-| [**Wayex**](https://github.com/Flowdesktech/wayex) — Stablecoin banking demo | Reference stablecoin banking web app (Wayex‑style, unaffiliated) demonstrating modern fintech patterns. | Next.js · Bridge.xyz · Prisma · NextAuth |
-| [**Hackernews**](https://github.com/Flowdesktech/hackernews) — HN reader | Minimal, fast Hacker News reader. | TypeScript |
-| [**Website**](https://github.com/Flowdesktech/website) — flowdesk.tech site | Source for the flowdesk.tech marketing website. | TypeScript · Next.js |
-| ✨ **More coming soon** | AI orchestration tools, agent frameworks, automation kits, and developer utilities. | — |
+| [**Invoice**](https://github.com/Flowdesktech/invoice) — Invoice management SaaS | Professional invoice management SaaS — customer management, PDF generation, multi‑currency, business profiles. [Live demo](https://invoice.flowdesk.tech). | React 19 · Next.js 15 · Firebase · Material‑UI |
+| ✨ **More coming soon** | Additional privacy, cryptography, and AI tooling under this organization. | — |
 
 ---
 
@@ -144,15 +148,15 @@ We help teams go from *"we should use AI somewhere"* to production systems that 
 <tr>
 <td width="50%" valign="top">
 
-#### 📄 [Invoice](https://github.com/Flowdesktech/invoice)
+#### 🛡️ [Flowvault](https://github.com/Flowdesktech/flowvault)
 
-Professional invoice management SaaS with customer management, PDF generation, and multi‑currency support. [Live demo](https://invoice.flowdesk.tech).
+Zero‑knowledge encrypted notepad with hidden‑volume plausible deniability, drand‑backed time‑locked notes, self‑destructing Encrypted Send, and Bring‑Your‑Own‑Storage local vaults. [Live demo](https://flowvault.flowdesk.tech).
 
-[![Stars](https://img.shields.io/github/stars/Flowdesktech/invoice?style=flat-square&logo=github&color=FFD93D)](https://github.com/Flowdesktech/invoice/stargazers)
-[![Forks](https://img.shields.io/github/forks/Flowdesktech/invoice?style=flat-square&logo=github&color=0A66C2)](https://github.com/Flowdesktech/invoice/network/members)
-[![Issues](https://img.shields.io/github/issues/Flowdesktech/invoice?style=flat-square&logo=github&color=EA4335)](https://github.com/Flowdesktech/invoice/issues)
-[![Last commit](https://img.shields.io/github/last-commit/Flowdesktech/invoice?style=flat-square&logo=github&color=3D9970)](https://github.com/Flowdesktech/invoice/commits)
-[![Language](https://img.shields.io/github/languages/top/Flowdesktech/invoice?style=flat-square&logo=javascript&color=F7DF1E)](https://github.com/Flowdesktech/invoice)
+[![Stars](https://img.shields.io/github/stars/Flowdesktech/flowvault?style=flat-square&logo=github&color=FFD93D)](https://github.com/Flowdesktech/flowvault/stargazers)
+[![Forks](https://img.shields.io/github/forks/Flowdesktech/flowvault?style=flat-square&logo=github&color=0A66C2)](https://github.com/Flowdesktech/flowvault/network/members)
+[![Issues](https://img.shields.io/github/issues/Flowdesktech/flowvault?style=flat-square&logo=github&color=EA4335)](https://github.com/Flowdesktech/flowvault/issues)
+[![Last commit](https://img.shields.io/github/last-commit/Flowdesktech/flowvault?style=flat-square&logo=github&color=3D9970)](https://github.com/Flowdesktech/flowvault/commits)
+[![Language](https://img.shields.io/github/languages/top/Flowdesktech/flowvault?style=flat-square&logo=typescript&color=3178C6)](https://github.com/Flowdesktech/flowvault)
 
 </td>
 <td width="50%" valign="top">
@@ -185,43 +189,15 @@ Fast, private, all‑in‑one screenshot and screen utility for Windows. Built w
 </td>
 <td width="50%" valign="top">
 
-#### 💳 [Wayex](https://github.com/Flowdesktech/wayex)
+#### 📄 [Invoice](https://github.com/Flowdesktech/invoice)
 
-Reference stablecoin banking web app (Wayex‑style, unaffiliated) demonstrating modern fintech patterns.
+Professional invoice management SaaS with customer management, PDF generation, and multi‑currency support. [Live demo](https://invoice.flowdesk.tech).
 
-[![Stars](https://img.shields.io/github/stars/Flowdesktech/wayex?style=flat-square&logo=github&color=FFD93D)](https://github.com/Flowdesktech/wayex/stargazers)
-[![Forks](https://img.shields.io/github/forks/Flowdesktech/wayex?style=flat-square&logo=github&color=0A66C2)](https://github.com/Flowdesktech/wayex/network/members)
-[![Issues](https://img.shields.io/github/issues/Flowdesktech/wayex?style=flat-square&logo=github&color=EA4335)](https://github.com/Flowdesktech/wayex/issues)
-[![Last commit](https://img.shields.io/github/last-commit/Flowdesktech/wayex?style=flat-square&logo=github&color=3D9970)](https://github.com/Flowdesktech/wayex/commits)
-[![Language](https://img.shields.io/github/languages/top/Flowdesktech/wayex?style=flat-square&logo=typescript&color=3178C6)](https://github.com/Flowdesktech/wayex)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 📰 [Hackernews](https://github.com/Flowdesktech/hackernews)
-
-Minimal, fast Hacker News reader built with TypeScript.
-
-[![Stars](https://img.shields.io/github/stars/Flowdesktech/hackernews?style=flat-square&logo=github&color=FFD93D)](https://github.com/Flowdesktech/hackernews/stargazers)
-[![Forks](https://img.shields.io/github/forks/Flowdesktech/hackernews?style=flat-square&logo=github&color=0A66C2)](https://github.com/Flowdesktech/hackernews/network/members)
-[![Issues](https://img.shields.io/github/issues/Flowdesktech/hackernews?style=flat-square&logo=github&color=EA4335)](https://github.com/Flowdesktech/hackernews/issues)
-[![Last commit](https://img.shields.io/github/last-commit/Flowdesktech/hackernews?style=flat-square&logo=github&color=3D9970)](https://github.com/Flowdesktech/hackernews/commits)
-[![Language](https://img.shields.io/github/languages/top/Flowdesktech/hackernews?style=flat-square&logo=typescript&color=3178C6)](https://github.com/Flowdesktech/hackernews)
-
-</td>
-<td width="50%" valign="top">
-
-#### 🌐 [Website](https://github.com/Flowdesktech/website)
-
-Source for the flowdesk.tech marketing website.
-
-[![Stars](https://img.shields.io/github/stars/Flowdesktech/website?style=flat-square&logo=github&color=FFD93D)](https://github.com/Flowdesktech/website/stargazers)
-[![Forks](https://img.shields.io/github/forks/Flowdesktech/website?style=flat-square&logo=github&color=0A66C2)](https://github.com/Flowdesktech/website/network/members)
-[![Issues](https://img.shields.io/github/issues/Flowdesktech/website?style=flat-square&logo=github&color=EA4335)](https://github.com/Flowdesktech/website/issues)
-[![Last commit](https://img.shields.io/github/last-commit/Flowdesktech/website?style=flat-square&logo=github&color=3D9970)](https://github.com/Flowdesktech/website/commits)
-[![Language](https://img.shields.io/github/languages/top/Flowdesktech/website?style=flat-square&logo=typescript&color=3178C6)](https://github.com/Flowdesktech/website)
+[![Stars](https://img.shields.io/github/stars/Flowdesktech/invoice?style=flat-square&logo=github&color=FFD93D)](https://github.com/Flowdesktech/invoice/stargazers)
+[![Forks](https://img.shields.io/github/forks/Flowdesktech/invoice?style=flat-square&logo=github&color=0A66C2)](https://github.com/Flowdesktech/invoice/network/members)
+[![Issues](https://img.shields.io/github/issues/Flowdesktech/invoice?style=flat-square&logo=github&color=EA4335)](https://github.com/Flowdesktech/invoice/issues)
+[![Last commit](https://img.shields.io/github/last-commit/Flowdesktech/invoice?style=flat-square&logo=github&color=3D9970)](https://github.com/Flowdesktech/invoice/commits)
+[![Language](https://img.shields.io/github/languages/top/Flowdesktech/invoice?style=flat-square&logo=javascript&color=F7DF1E)](https://github.com/Flowdesktech/invoice)
 
 </td>
 </tr>
@@ -237,36 +213,63 @@ Source for the flowdesk.tech marketing website.
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB "React — frontend framework")
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white "Next.js — React framework for production")
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white "TypeScript — typed JavaScript")
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white "Node.js — server runtime")
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white "Python — AI and data pipelines")
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black "Firebase — serverless backend")
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white "Vercel — deployment platform")
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white ".NET — Windows desktop framework")
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white "Tailwind CSS — utility-first styling")
+**Cryptography & Privacy**
 
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white "Swift — native iOS development")
+![OpenPGP](https://img.shields.io/badge/OpenPGP-0E4B99?style=for-the-badge&logo=gnuprivacyguard&logoColor=white "OpenPGP — PGP email at FlowCrypt")
+![AES-GCM](https://img.shields.io/badge/AES--256--GCM-2E2E2E?style=for-the-badge&logo=gnuprivacyguard&logoColor=white "AES-256-GCM authenticated encryption")
+![Argon2id](https://img.shields.io/badge/Argon2id-5C2D91?style=for-the-badge&logo=keepassxc&logoColor=white "Argon2id memory-hard KDF")
+![drand/tlock](https://img.shields.io/badge/drand%20%2F%20tlock-1F6FEB?style=for-the-badge&logo=ethereum&logoColor=white "drand + tlock time-lock encryption")
+![Web Crypto API](https://img.shields.io/badge/Web%20Crypto%20API-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "Web Crypto API")
+![Zero Knowledge](https://img.shields.io/badge/Zero--Knowledge-0A66C2?style=for-the-badge&logo=probot&logoColor=white "Zero-knowledge architecture")
+
+**Mobile**
+
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white "Swift — native iOS")
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0A84FF?style=for-the-badge&logo=swift&logoColor=white "SwiftUI — declarative iOS UI")
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white "Kotlin — native Android development")
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white "Kotlin — native Android")
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white "Jetpack Compose — declarative Android UI")
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black "React Native — hybrid mobile apps")
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black "React Native — hybrid mobile")
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white "Expo — React Native toolchain")
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white "Flutter — cross-platform mobile apps")
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white "Dart — language for Flutter")
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white "Flutter — cross-platform mobile")
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white "Dart — Flutter language")
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white "OpenAI — GPT and embeddings")
-![Anthropic Claude](https://img.shields.io/badge/Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white "Anthropic Claude — large language model")
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white "LangChain — LLM orchestration framework")
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white "n8n — workflow automation")
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white "Docker — containers")
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white "PostgreSQL — relational database")
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white "Redis — in-memory cache and queue")
+**Browser Extensions & Web**
+
+![Chrome Extension](https://img.shields.io/badge/Chrome%20Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white "Chrome / Edge / Firefox extensions")
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB "React — frontend")
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white "Next.js — React framework")
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white "TypeScript — typed JS")
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white "Node.js — server runtime")
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white "Python — AI & data")
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white "Tailwind CSS")
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black "Firebase — serverless backend")
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white "PostgreSQL — relational DB")
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white ".NET — Windows desktop")
+
+**AI — Shipped into Products**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white "OpenAI — GPT & embeddings")
+![Anthropic](https://img.shields.io/badge/Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white "Anthropic Claude")
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white "LangChain — LLM orchestration")
+![RAG](https://img.shields.io/badge/RAG-1F6FEB?style=for-the-badge&logo=databricks&logoColor=white "Retrieval-Augmented Generation")
+![Vector DBs](https://img.shields.io/badge/Vector%20DBs-4B8BBE?style=for-the-badge&logo=postgresql&logoColor=white "pgvector, Pinecone, Qdrant, Weaviate")
+
+**AI — Used to Ship Faster**
+
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white "Cursor — AI-augmented IDE for boilerplate, tests, refactors")
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-24292F?style=for-the-badge&logo=githubcopilot&logoColor=white "GitHub Copilot — inline AI completions")
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white "Claude — exploration, refactor, code review")
+![Codex / GPT](https://img.shields.io/badge/ChatGPT%20%2F%20Codex-10A37F?style=for-the-badge&logo=openai&logoColor=white "ChatGPT / Codex — scaffolding, tests")
+
+**Infra & CI/CD**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white "Docker")
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white "Redis")
+![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=black "Fastlane — mobile CI/CD")
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white "GitHub Actions — CI/CD")
-![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=black "Fastlane — mobile CI/CD automation")
-![App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white "Apple App Store publishing")
-![Google Play](https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white "Google Play publishing")
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white "Vercel — deployment")
+![App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white "Apple App Store")
+![Google Play](https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white "Google Play")
 
 </div>
 
@@ -274,50 +277,74 @@ Source for the flowdesk.tech marketing website.
 
 ## How We Work
 
-1. **Discover** — Understand the problem, users, market, and constraints.
+1. **Discover** — Understand the problem, users, threat model, and constraints. For privacy and crypto work, we write the threat model down before writing code.
 2. **Prototype** — Get something clickable quickly; validate direction before scaling.
-3. **Build** — Typed, tested, opinionated code with AI pair‑programming baked in.
-4. **Ship** — CI/CD, observability, and predictable releases from day one.
+3. **Build** — Typed, tested, opinionated code, with **AI used aggressively to accelerate the boring parts** (scaffolding, boilerplate, test generation, mechanical refactors, codebase exploration) so human time is concentrated on architecture, cryptography choices, security, and the edge cases that actually matter.
+4. **Ship** — CI/CD, observability, and predictable releases from day one. For security‑sensitive products, release commits are tagged and signed.
 5. **Iterate** — Tight feedback loops with clients and end users.
 
 ---
 
 ## Frequently Asked Questions
 
-### What services does Flowdesk offer?
-Flowdesk builds AI‑powered SaaS applications, **native iOS and Android mobile apps**, **hybrid cross‑platform apps (React Native, Expo, Flutter)**, LLM orchestration systems, autonomous agents, data pipelines, automation workflows, developer tools, and custom web and desktop software. We also maintain several open‑source projects.
+### What is Flowdesk's specialty?
+
+We're a **privacy‑first engineering studio**. Our strongest work is in zero‑knowledge applications, end‑to‑end encrypted systems, client‑side cryptography, crypto wallets, and security‑critical mobile and browser‑extension work. [Flowvault](https://github.com/Flowdesktech/flowvault) is the public reference for the bar we hold client work to.
+
+### Who runs Flowdesk?
+
+Flowdesk is led by a **senior engineer with four years at [FlowCrypt](https://flowcrypt.com)** (2022–2026) shipping production OpenPGP email — owning the iOS app and the Chrome / browser extension end to end, plus review and QA on the Android codebase. That cryptography and secure‑mobile background is the foundation we build every engagement on.
+
+### Does Flowdesk only do privacy/crypto work?
+
+No. Privacy and cryptography are our specialty and our strongest differentiator, but we also take on **full‑stack web, native & hybrid mobile, and AI engagements** — the engineering playbook is the same (typed, tested, shipped). See [What We Build](#what-we-build) for the full list.
 
 ### Does Flowdesk build mobile apps?
-Yes — mobile is a core specialty. We build **native iOS apps in Swift/SwiftUI**, **native Android apps in Kotlin/Jetpack Compose**, and **hybrid apps with React Native, Expo, and Flutter**. We handle the full lifecycle: architecture, implementation, backend integration, CI/CD with Fastlane and EAS, and releases to the App Store and Google Play.
+
+Yes — mobile is a core specialty, including security‑critical mobile (four years shipping a production iOS app at FlowCrypt). We build **native iOS apps in Swift/SwiftUI**, **native Android apps in Kotlin/Jetpack Compose**, and **hybrid apps with React Native, Expo, and Flutter** — architecture through App Store / Google Play release.
 
 ### What tech stacks does Flowdesk specialize in?
-**Web:** React, Next.js, TypeScript, Node.js, Python, Tailwind. **Mobile:** Swift, Kotlin, React Native, Expo, Flutter, Dart. **Backend & infra:** Firebase, Postgres, Redis, Docker, .NET. **AI:** OpenAI, Anthropic Claude, LangChain, and vector databases for orchestration, agents, and RAG.
+
+**Cryptography:** OpenPGP, AES‑GCM, Argon2id, drand/tlock, Web Crypto API. **Web:** React, Next.js, TypeScript, Node.js, Python, Tailwind. **Mobile:** Swift, Kotlin, React Native, Expo, Flutter, Dart. **Backend & infra:** Firebase, Postgres, Redis, Docker, .NET. **AI (shipped into products):** OpenAI, Anthropic Claude, LangChain, RAG, vector databases. **AI (used to ship faster):** Cursor, Claude Code, GitHub Copilot, ChatGPT / Codex.
+
+### How does Flowdesk use AI on client projects?
+
+Two ways. **We build AI features into products** — LLM orchestration, agents, RAG, evals, and automation pipelines. **And we use AI aggressively to deliver faster** — Cursor, Claude Code, Copilot, and GPT/Codex handle scaffolding, test generation, mechanical refactors, and codebase exploration, so the billable hours concentrate on the 20% of the code that actually needs human judgment — API design, cryptography choices, UX trade‑offs, and gnarly edge cases.
 
 ### Does Flowdesk take on new client projects?
-Yes. We accept a limited number of engagements per quarter for product builds, AI integrations, pipeline and platform work, and open‑source collaboration. Email **contact@flowdesk.tech** to start a conversation.
+
+Yes. We accept a limited number of engagements per quarter for privacy/crypto product builds, mobile app development, AI integrations, and full‑stack product work. **Typical engagement:** 2–12 weeks, discovery through production release and handover. Email **[contact@flowdesk.tech](mailto:contact@flowdesk.tech)**.
 
 ### Does Flowdesk work remotely?
-Yes — Flowdesk is **100% remote** and collaborates with clients worldwide across time zones. We run discovery, design, development, and delivery entirely over async and video calls.
+
+Yes — Flowdesk is **100% remote** and collaborates with clients worldwide across time zones. Discovery, design, development, and delivery run entirely over async and video.
 
 ### Are Flowdesk's projects open source?
-Most of our flagship projects — [Invoice](https://github.com/Flowdesktech/invoice), [Firestudio](https://github.com/Flowdesktech/firestudio), [Snapboard](https://github.com/Flowdesktech/Snapboard), and others — are open source under permissive licenses.
+
+Our flagship products — [Flowvault](https://github.com/Flowdesktech/flowvault), [Firestudio](https://github.com/Flowdesktech/firestudio), [Snapboard](https://github.com/Flowdesktech/Snapboard), and [Invoice](https://github.com/Flowdesktech/invoice) — are open source under permissive licenses. Flowvault is MIT, end to end: frontend, Cloud Functions, and Firestore rules.
 
 ---
 
 ## Work With Us
 
-We take on a small number of client engagements each quarter. If you have a product idea, a legacy system to modernize, an AI workflow to ship, or a tool you wish existed — we'd love to hear about it.
+We take a limited number of client engagements each quarter.
 
 **Typical engagements:**
-- **Product builds** — Ship a SaaS, internal tool, or desktop utility from zero to production.
-- **Mobile app development** — Native iOS/Android or cross‑platform (React Native, Flutter) apps from design to App Store / Google Play release.
-- **AI integrations** — Add orchestration, agents, RAG, or automation into an existing product.
-- **Pipeline & platform work** — Design data pipelines, CI/CD, and infrastructure that scale without drama.
-- **Open‑source collaboration** — Sponsor, extend, or co‑maintain one of our OSS projects.
+
+- 🛡️ **Privacy & E2EE product builds** — zero‑knowledge web apps, encrypted messaging / storage / sharing, client‑side cryptography done right. Our strongest and highest‑value work.
+- 💱 **Crypto & web3 products** — wallets, signing flows, key management, and web3 frontends.
+- 🧩 **Browser extensions** — including security‑critical E2EE extensions.
+- 📱 **Mobile app development** — native iOS/Android or cross‑platform (React Native, Flutter), design through App Store / Google Play release.
+- 🤖 **AI integrations** — orchestration, agents, RAG, evals, guardrails — shipped into real products.
+- 🌐 **Full‑stack product builds** — SaaS, internal tools, and developer utilities from zero to production.
+- 🔎 **Security reviews & threat modeling** — written, specific, actionable reviews of existing crypto, key management, or zero‑knowledge boundaries.
+- 🧭 **Technical leadership** — architecture reviews, code reviews, and mentorship for small engineering teams.
+
+**Typical engagement:** 2–12 weeks, discovery through production release and handover.
 
 **Reach out:**
 
-- 📧 **Email:** [contact@flowdesk.tech](mailto:contact@flowdesk.tech)
+- 📧 **Email:** [contact@flowdesk.tech](mailto:contact@flowdesk.tech?subject=Flowdesk%20%E2%80%94%20project%20inquiry)
 - 🌐 **Website:** [flowdesk.tech](https://flowdesk.tech)
 - 💼 **GitHub:** [github.com/Flowdesktech](https://github.com/Flowdesktech)
 
@@ -325,11 +352,11 @@ We take on a small number of client engagements each quarter. If you have a prod
 
 <div align="center">
 
-### Flowdesk — AI Development Agency, Mobile App Studio, Automation Experts
+### Flowdesk — Privacy‑first Engineering Studio
 
-*AI orchestration · LLM agents · Native iOS · Native Android · React Native · Flutter · React · Next.js · TypeScript · Firebase · Automation pipelines · Remote Worldwide*
+*Zero‑knowledge · E2EE · OpenPGP · Cryptography · Crypto wallets · Chrome extensions · Native iOS · Native Android · Swift · Kotlin · React Native · Flutter · React · Next.js · TypeScript · Firebase · AI orchestration · LLM agents · RAG · Remote Worldwide*
 
-[flowdesk.tech](https://flowdesk.tech) · [contact@flowdesk.tech](mailto:contact@flowdesk.tech)
+[flowdesk.tech](https://flowdesk.tech) · [contact@flowdesk.tech](mailto:contact@flowdesk.tech) · [@Flowdesktech](https://github.com/Flowdesktech)
 
 *Built with care by the Flowdesk team.*
 

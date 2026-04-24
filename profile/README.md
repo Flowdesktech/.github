@@ -93,7 +93,7 @@ Real App Store and Google Play experience, including four years shipping a secur
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| [**Flowvault**](https://github.com/Flowdesktech/flowvault) — zero‑knowledge notepad | Argon2id + AES‑256‑GCM notepad with hidden‑volume plausible deniability, drand‑backed time‑locked notes, self‑destructing Encrypted Send, Bring‑Your‑Own‑Storage local vaults, and a zero‑knowledge dead‑man's switch. [Live demo](https://flowvault.flowdesk.tech). | Next.js · Firebase · TypeScript · Cryptography |
+| [**Flowvault**](https://github.com/Flowdesktech/flowvault) — zero‑knowledge notepad | Argon2id + AES‑256‑GCM notepad with hidden‑volume plausible deniability, drand‑backed time‑locked notes, self‑destructing Encrypted Send, Bring‑Your‑Own‑Storage local vaults, and a zero‑knowledge dead‑man's switch. [Live demo](https://useflowvault.com). | Next.js · Firebase · TypeScript · Cryptography |
 | [**Firestudio**](https://github.com/Flowdesktech/firestudio) — Firestore GUI client | Open‑source desktop GUI client for Firebase Firestore — browse, query, and edit collections visually. | TypeScript · Electron · Firebase |
 | [**Snapboard**](https://github.com/Flowdesktech/Snapboard) — Windows screenshot tool | Fast, private, all‑in‑one screenshot and screen utility for Windows. | C# · .NET · WPF |
 | [**Invoice**](https://github.com/Flowdesktech/invoice) — Invoice management SaaS | Professional invoice management SaaS — customer management, PDF generation, multi‑currency, business profiles. [Live demo](https://invoice.flowdesk.tech). | React 19 · Next.js 15 · Firebase · Material‑UI |
@@ -150,7 +150,7 @@ Real App Store and Google Play experience, including four years shipping a secur
 
 #### 🛡️ [Flowvault](https://github.com/Flowdesktech/flowvault)
 
-Zero‑knowledge encrypted notepad with hidden‑volume plausible deniability, drand‑backed time‑locked notes, self‑destructing Encrypted Send, and Bring‑Your‑Own‑Storage local vaults. [Live demo](https://flowvault.flowdesk.tech).
+Zero‑knowledge encrypted notepad with hidden‑volume plausible deniability, drand‑backed time‑locked notes, self‑destructing Encrypted Send, and Bring‑Your‑Own‑Storage local vaults. [Live demo](https://useflowvault.com).
 
 [![Stars](https://img.shields.io/github/stars/Flowdesktech/flowvault?style=flat-square&logo=github&color=FFD93D)](https://github.com/Flowdesktech/flowvault/stargazers)
 [![Forks](https://img.shields.io/github/forks/Flowdesktech/flowvault?style=flat-square&logo=github&color=0A66C2)](https://github.com/Flowdesktech/flowvault/network/members)

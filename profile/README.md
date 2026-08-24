@@ -22,6 +22,7 @@
 **We build full‑stack web apps, native & hybrid mobile apps, end‑to‑end encrypted systems, crypto wallets, and AI‑powered products — the kind of engineering where getting the details wrong is the whole story. Led by a senior engineer with four years shipping production OpenPGP email at [FlowCrypt](https://flowcrypt.com) (iOS + Chrome Extension, 2022–2026).**
 
 [![Website — flowdesk.tech](https://img.shields.io/badge/Website-flowdesk.tech-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white "Flowdesk website")](https://flowdesk.tech)
+[![Stablon — Crypto payments + invoicing](https://img.shields.io/badge/Stablon-Crypto%20payments%20%2B%20invoicing-06B6D4?style=for-the-badge&logo=bitcoin&logoColor=white "Explore Stablon")](https://stablon.app)
 [![Email — contact@flowdesk.tech](https://img.shields.io/badge/Email-contact%40flowdesk.tech-D14836?style=for-the-badge&logo=gmail&logoColor=white "Hire Flowdesk — contact@flowdesk.tech")](mailto:contact@flowdesk.tech)
 [![Remote — Worldwide](https://img.shields.io/badge/Available-Remote%20Worldwide-3D9970?style=for-the-badge&logo=googleearth&logoColor=white "Flowdesk works remotely with clients worldwide")](mailto:contact@flowdesk.tech)
 [![GitHub followers](https://img.shields.io/github/followers/Flowdesktech?label=Follow%20%40Flowdesktech&style=for-the-badge&logo=github&color=181717 "Follow Flowdesk on GitHub")](https://github.com/Flowdesktech)
@@ -89,14 +90,14 @@ Real App Store and Google Play experience, including four years shipping a secur
 
 ---
 
-## Featured Open‑Source Projects
+## Featured Products & Open‑Source Projects
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| [**Flowvault**](https://github.com/Flowdesktech/flowvault) — zero‑knowledge notepad | Argon2id + AES‑256‑GCM notepad with hidden‑volume plausible deniability, drand‑backed time‑locked notes, self‑destructing Encrypted Send, Bring‑Your‑Own‑Storage local vaults, and a zero‑knowledge dead‑man's switch. [Live demo](https://useflowvault.com). | Next.js · Firebase · TypeScript · Cryptography |
+| [**Stablon**](https://stablon.app) — crypto payments and invoicing | Accept and send stablecoin payments, create professional invoices, and manage crypto and local USD/EUR rails in one practical workflow. | Next.js · TypeScript · Firebase · Bridge.xyz |
+| [**Flowvault**](https://github.com/Flowdesktech/flowvault) — zero‑knowledge notepad | Argon2id + AES‑256‑GCM notepad with hidden‑volume plausible deniability, drand‑backed time‑locked notes, self‑destructing Encrypted Send, Bring‑Your‑Own‑Storage local vaults, and a zero‑knowledge dead‑man's switch. [Live demo](https://flowvault.flowdesk.tech). | Next.js · Firebase · TypeScript · Cryptography |
 | [**Firestudio**](https://github.com/Flowdesktech/firestudio) — Firestore GUI client | Open‑source desktop GUI client for Firebase Firestore — browse, query, and edit collections visually. | TypeScript · Electron · Firebase |
 | [**Snapboard**](https://github.com/Flowdesktech/Snapboard) — Windows screenshot tool | Fast, private, all‑in‑one screenshot and screen utility for Windows. | C# · .NET · WPF |
-| [**Invoice**](https://github.com/Flowdesktech/invoice) — Invoice management SaaS | Professional invoice management SaaS — customer management, PDF generation, multi‑currency, business profiles. [Live demo](https://invoice.flowdesk.tech). | React 19 · Next.js 15 · Firebase · Material‑UI |
 | ✨ **More coming soon** | Additional privacy, cryptography, and AI tooling under this organization. | — |
 
 ---
@@ -150,7 +151,7 @@ Real App Store and Google Play experience, including four years shipping a secur
 
 #### 🛡️ [Flowvault](https://github.com/Flowdesktech/flowvault)
 
-Zero‑knowledge encrypted notepad with hidden‑volume plausible deniability, drand‑backed time‑locked notes, self‑destructing Encrypted Send, and Bring‑Your‑Own‑Storage local vaults. [Live demo](https://useflowvault.com).
+Zero‑knowledge encrypted notepad with hidden‑volume plausible deniability, drand‑backed time‑locked notes, self‑destructing Encrypted Send, and Bring‑Your‑Own‑Storage local vaults. [Live demo](https://flowvault.flowdesk.tech).
 
 [![Stars](https://img.shields.io/github/stars/Flowdesktech/flowvault?style=flat-square&logo=github&color=FFD93D)](https://github.com/Flowdesktech/flowvault/stargazers)
 [![Forks](https://img.shields.io/github/forks/Flowdesktech/flowvault?style=flat-square&logo=github&color=0A66C2)](https://github.com/Flowdesktech/flowvault/network/members)
@@ -189,15 +190,15 @@ Fast, private, all‑in‑one screenshot and screen utility for Windows. Built w
 </td>
 <td width="50%" valign="top">
 
-#### 📄 [Invoice](https://github.com/Flowdesktech/invoice)
+#### 💸 [Stablon](https://stablon.app)
 
-Professional invoice management SaaS with customer management, PDF generation, and multi‑currency support. [Live demo](https://invoice.flowdesk.tech).
+Crypto payments and invoicing for business — stablecoin transfers, professional invoices, and local USD/EUR rails in one practical workflow. [Explore Stablon](https://stablon.app).
 
-[![Stars](https://img.shields.io/github/stars/Flowdesktech/invoice?style=flat-square&logo=github&color=FFD93D)](https://github.com/Flowdesktech/invoice/stargazers)
-[![Forks](https://img.shields.io/github/forks/Flowdesktech/invoice?style=flat-square&logo=github&color=0A66C2)](https://github.com/Flowdesktech/invoice/network/members)
-[![Issues](https://img.shields.io/github/issues/Flowdesktech/invoice?style=flat-square&logo=github&color=EA4335)](https://github.com/Flowdesktech/invoice/issues)
-[![Last commit](https://img.shields.io/github/last-commit/Flowdesktech/invoice?style=flat-square&logo=github&color=3D9970)](https://github.com/Flowdesktech/invoice/commits)
-[![Language](https://img.shields.io/github/languages/top/Flowdesktech/invoice?style=flat-square&logo=javascript&color=F7DF1E)](https://github.com/Flowdesktech/invoice)
+[![Stars](https://img.shields.io/github/stars/Flowdesktech/stablon?style=flat-square&logo=github&color=FFD93D)](https://github.com/Flowdesktech/stablon/stargazers)
+[![Forks](https://img.shields.io/github/forks/Flowdesktech/stablon?style=flat-square&logo=github&color=0A66C2)](https://github.com/Flowdesktech/stablon/network/members)
+[![Issues](https://img.shields.io/github/issues/Flowdesktech/stablon?style=flat-square&logo=github&color=EA4335)](https://github.com/Flowdesktech/stablon/issues)
+[![Last commit](https://img.shields.io/github/last-commit/Flowdesktech/stablon?style=flat-square&logo=github&color=3D9970)](https://github.com/Flowdesktech/stablon/commits)
+[![Language](https://img.shields.io/github/languages/top/Flowdesktech/stablon?style=flat-square&logo=typescript&color=3178C6)](https://github.com/Flowdesktech/stablon)
 
 </td>
 </tr>
@@ -321,7 +322,7 @@ Yes — Flowdesk is **100% remote** and collaborates with clients worldwide acro
 
 ### Are Flowdesk's projects open source?
 
-Our flagship products — [Flowvault](https://github.com/Flowdesktech/flowvault), [Firestudio](https://github.com/Flowdesktech/firestudio), [Snapboard](https://github.com/Flowdesktech/Snapboard), and [Invoice](https://github.com/Flowdesktech/invoice) — are open source under permissive licenses. Flowvault is MIT, end to end: frontend, Cloud Functions, and Firestore rules.
+Our open‑source products include [Flowvault](https://github.com/Flowdesktech/flowvault), [Firestudio](https://github.com/Flowdesktech/firestudio), and [Snapboard](https://github.com/Flowdesktech/Snapboard), released under permissive licenses. Flowvault is MIT, end to end: frontend, Cloud Functions, and Firestore rules. Our flagship fintech product is [Stablon](https://stablon.app).
 
 ---
 
